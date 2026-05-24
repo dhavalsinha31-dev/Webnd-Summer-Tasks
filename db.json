@@ -1,0 +1,137 @@
+[
+  {
+    "id": "olympus-base",
+    "name": "Olympus Base",
+    "region": "Olympus Mons",
+    "temp": "-55°C",
+    "dustLevel": "Moderate",
+    "advisory": "Solar Flare Alert: High UV index. Stay indoors between 0600 and 1400 Sols.",
+    "theme": "#E2583E"
+  },
+  {
+    "id": "acidalia-hub",
+    "name": "Acidalia Hub",
+    "region": "Acidalia Planitia",
+    "temp": "-80°C",
+    "dustLevel": "Extreme",
+    "advisory": "Dust Storm incoming. Secure all pressurized rovers and toggle static shields.",
+    "theme": "#5A6266"
+  },
+  {
+    "id": "valles-biodome",
+    "name": "Valles Biodome",
+    "region": "Valles Marineris",
+    "temp": "-15°C",
+    "dustLevel": "Low",
+    "advisory": "Atmospheric pressure stable. Enjoy the green sector walk paths.",
+    "theme": "#2E7D32"
+  },
+  {
+    "id": "utopia-plains",
+    "name": "Utopia Plains",
+    "region": "Utopia Planitia",
+    "temp": "-65°C",
+    "dustLevel": "Low",
+    "advisory": "Subsurface ice mining operation active. Watch out for heavy machinery traffic.",
+    "theme": "#4A90E2"
+  },
+  {
+    "id": "gale-crater",
+    "name": "Gale Labs",
+    "region": "Gale Crater",
+    "temp": "-40°C",
+    "dustLevel": "High",
+    "advisory": "Fine particulate warning. Service your spacesuit filters before exiting the airlock.",
+    "theme": "#D68A45"
+  },
+  {
+    "id": "hellas-basin",
+    "name": "Hellas Deep Outpost",
+    "region": "Hellas Planitia",
+    "temp": "-10°C",
+    "dustLevel": "Extreme",
+    "advisory": "CO2 frost sublimation occurring. Check external seal integrity immediately.",
+    "theme": "#8B4513"
+  },
+  {
+    "id": "chryse-station",
+    "name": "Chryse Station",
+    "region": "Chryse Planitia",
+    "temp": "-70°C",
+    "dustLevel": "Moderate",
+    "advisory": "High wind speeds detected. Secure all loose solar array brackets.",
+    "theme": "#C08A6E"
+  },
+  {
+    "id": "promethei-ice",
+    "name": "Promethei Station",
+    "region": "Promethei Terra (South Pole)",
+    "temp": "-120°C",
+    "dustLevel": "Low",
+    "advisory": "Extreme cold event. Thermal grid running at 95% capacity. Limit external exposure.",
+    "theme": "#A5D6A7"
+  },
+  {
+    "id": "elysium-resort",
+    "name": "Elysium Dome",
+    "region": "Elysium Planitia",
+    "temp": "-22°C",
+    "dustLevel": "Low",
+    "advisory": "Artificial ionosphere maintenance scheduled. Minor comms static expected.",
+    "theme": "#00897B"
+  },
+  {
+    "id": "tharsis-ridge",
+    "name": "Tharsis Foundry",
+    "region": "Tharsis Volcanic Plateau",
+    "temp": "-45°C",
+    "dustLevel": "High",
+    "advisory": "Geothermal venting in Sector 4. Reroute all automated delivery drones.",
+    "theme": "#B71C1C"
+  },
+  {
+    "id": "syrtis-sector",
+    "name": "Syrtis Tech Sector",
+    "region": "Syrtis Major Planum",
+    "temp": "-35°C",
+    "dustLevel": "Moderate",
+    "advisory": "Dark basalt terrain absorbency causing minor localized thermal updrafts.",
+    "theme": "#37474F"
+  },
+  {
+    "id": "noachis-terra",
+    "name": "Noachis Heritage City",
+    "region": "Noachis Terra",
+    "temp": "-75°C",
+    "dustLevel": "High",
+    "advisory": "Old crater rim rockslides reported. Stay clear of the western perimeter wall.",
+    "theme": "#A1887F"
+  },
+  {
+    "id": "arcadia-hydro",
+    "name": "Arcadia Hydro-Plant",
+    "region": "Arcadia Planitia",
+    "temp": "-50°C",
+    "dustLevel": "Low",
+    "advisory": "Water vapor extraction pipelines operating at peak pressure. Routine testing.",
+    "theme": "#1565C0"
+  },
+  {
+    "id": "amazonis-plains",
+    "name": "Amazonis Outpost",
+    "region": "Amazonis Planitia",
+    "temp": "-58°C",
+    "dustLevel": "Extreme",
+    "advisory": "Dust devil activity spike. Automated rovers must switch to safe-park protocol.",
+    "theme": "#795548"
+  },
+  {
+    "id": "borealis-mines",
+    "name": "Borealis Refinery",
+    "region": "Vastitas Borealis",
+    "temp": "-95°C",
+    "dustLevel": "Low",
+    "advisory": "Polar night protocol active. Secondary backup battery bank tests underway.",
+    "theme": "#7E57C2"
+  }
+]
